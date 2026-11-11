@@ -1,0 +1,176 @@
+{
+ "format": 1,
+ "network": "main",
+ "generated": 1794401332,
+ "tip_height": 3031432,
+ "tip_hash": "58a07d1f4dbe68b7fa66d864272ca6351a60de13a409c132b034c9da03af909a",
+ "total_size": 2127072736,
+ "total_compressed_size": 1409286981,
+ "chunks": [
+  {
+   "file": "blocks-00000001-00230000.dat.gz",
+   "first_height": 1,
+   "last_height": 230000,
+   "first_hash": "0012eb05991b2ee8d074fde6c03089d2517937e28adc4219f0a4742b7805be96",
+   "last_hash": "daa18ee34ec94a55a2076871d16113e2204cdb97bd599cdb1d715f2306d44d26",
+   "size": 287061025,
+   "compressed_size": 190276948,
+   "compression": "gzip",
+   "sha256": "de3b89ec04de7e241c6c1989fd8ab89e98918588c38000fb12aa69e1bd349d79"
+  },
+  {
+   "file": "blocks-00230001-00249999.dat.gz",
+   "first_height": 230001,
+   "last_height": 249999,
+   "first_hash": "add2a20c07d19013bb390454be36c645d8a614423844ed9f84836e2ba6499e81",
+   "last_hash": "a057346a21e50c8a4a6046aa7435118ff457eac64fea327d3ee8a09b71cda805",
+   "size": 28214483,
+   "compressed_size": 19757489,
+   "compression": "gzip",
+   "sha256": "72c37ad744c95de625c5aad94377feea990d3917386b8afb1e7e99df33d5bc51"
+  },
+  {
+   "file": "blocks-00250000-00425249.dat.gz",
+   "first_height": 250000,
+   "last_height": 425249,
+   "first_hash": "ae2d0519dc8ba69c6cf6f32a89022cbdb53b021149c6aec91e2850fc5cd79c78",
+   "last_hash": "e4fd15b7b826b0908af86cc032495d31e3efa9bc351bbb940e9eacc35a137f82",
+   "size": 274959459,
+   "compressed_size": 190051643,
+   "compression": "gzip",
+   "sha256": "941744bab5c5272a9a327a3a65366e48db3e8695bb5e483b9e409dbe46c40293"
+  },
+  {
+   "file": "blocks-00425250-00499999.dat.gz",
+   "first_height": 425250,
+   "last_height": 499999,
+   "first_hash": "32a4d50de5669137903d19809d242ddfc1da627df3a559cbcedf6dc21ba65cf7",
+   "last_hash": "bdff7ef34b08b7f9cb9bc4aca9a45d85d3122393d7ff0dc054eea2dc15d77d5d",
+   "size": 72904711,
+   "compressed_size": 47517146,
+   "compression": "gzip",
+   "sha256": "b8186da0b9b0f260ac46f4d55276a19782deb0192d1cd57d77f730a39ecdc1b6"
+  },
+  {
+   "file": "blocks-00500000-00749999.dat.gz",
+   "first_height": 500000,
+   "last_height": 749999,
+   "first_hash": "f0ab563c346b480257a79fcc21335160397557c4ef497a5a3cdcd785d8f7b750",
+   "last_hash": "5d5e08feba635708c18c1f2ed1662154c05501d77de6e2a93d157acd8b1a3e2c",
+   "size": 180069094,
+   "compressed_size": 114086451,
+   "compression": "gzip",
+   "sha256": "5b3ec8d8a8eb5baf0bf201f75f47e3e2a5945bc4b438a265fdf921cbe5bd8966"
+  },
+  {
+   "file": "blocks-00750000-00999999.dat.gz",
+   "first_height": 750000,
+   "last_height": 999999,
+   "first_hash": "792c26585ef0d5d862093ebd7667a162bd8585c97084b620ba20c6f81c60fa9d",
+   "last_hash": "254d4697275832a8b5cb0adf83984bbf119b88d94f87407aafdc451467bb13d9",
+   "size": 244791237,
+   "compressed_size": 181663783,
+   "compression": "gzip",
+   "sha256": "2ba0a4c1f2f787a173f3a11d853fece92586d790abe38d14f81b1c0cbeb6cdce"
+  },
+  {
+   "file": "blocks-01000000-01249999.dat.gz",
+   "first_height": 1000000,
+   "last_height": 1249999,
+   "first_hash": "164e1a58efa97f33439b63cbb48207aabfcc3f84a0610478d94488f3b7de47a4",
+   "last_hash": "8daec306e0b9d831b3e54750f86e9fbc2ee48190545454b4782907ab1697f75e",
+   "size": 111095757,
+   "compressed_size": 70828124,
+   "compression": "gzip",
+   "sha256": "ad9930aa7d8ca2896a4efc0b43f5efbba9d623c0045e2887f19af871fccc535f"
+  },
+  {
+   "file": "blocks-01250000-01499999.dat.gz",
+   "first_height": 1250000,
+   "last_height": 1499999,
+   "first_hash": "8eea777d0912af922344818788e7a150acc4decc833a64bc1a3424b5e9e5e936",
+   "last_hash": "c28d9fa1edd2066c031862d0e18200cc74612f35b239301ba582d2a57609c058",
+   "size": 113174328,
+   "compressed_size": 70353582,
+   "compression": "gzip",
+   "sha256": "c65ab5e34f8dd6c14efdd0ca5fbff89665e6e7f3d5710186e591ce999da41907"
+  },
+  {
+   "file": "blocks-01500000-01749999.dat.gz",
+   "first_height": 1500000,
+   "last_height": 1749999,
+   "first_hash": "afb746cb0e83db720a8b8c26dd9e7bd5febe7ce832197da52afca71bbe64be57",
+   "last_hash": "04f7ded4f4d81558dcc333516504020fe5f44daace345ec9c441e1ba5411f1f4",
+   "size": 123840053,
+   "compressed_size": 79290513,
+   "compression": "gzip",
+   "sha256": "f9b19fa2fb6b8bd1e976f6fa9c382b7a2b8c30495b0cd6ee8f8ca92f91e92861"
+  },
+  {
+   "file": "blocks-01750000-01999999.dat.gz",
+   "first_height": 1750000,
+   "last_height": 1999999,
+   "first_hash": "1ff400230a293faf5e9688ca5814420b985d961246f3637388e1f276a8da0f8e",
+   "last_hash": "bcf603028f65c71f5cce16dcf777e76f824f92255962f94ae6260b57ca6fed40",
+   "size": 137215671,
+   "compressed_size": 89006576,
+   "compression": "gzip",
+   "sha256": "c8dce814d14e653d3556f1e8f178aa0d8f74b8a0390e45b8dc3e373cf02bd297"
+  },
+  {
+   "file": "blocks-02000000-02249999.dat.gz",
+   "first_height": 2000000,
+   "last_height": 2249999,
+   "first_hash": "1b330ad273b0c37fb547c96e1c46416276cd42d3efccbcfe7710d77e8ef225ea",
+   "last_hash": "3531cd213260b5ffcd386a4706e93b2d6ed53ec0218849bdbd8c00e53b3acde4",
+   "size": 157211986,
+   "compressed_size": 102175022,
+   "compression": "gzip",
+   "sha256": "c5cea250ecd3db84951e5a9f4b155858f3f762fd4bbac05aab5ff473f4aa4e55"
+  },
+  {
+   "file": "blocks-02250000-02499999.dat.gz",
+   "first_height": 2250000,
+   "last_height": 2499999,
+   "first_hash": "c883339d58c4e4abf4400db07536d7f27f3335a545b620b5db7ad0552d23b238",
+   "last_hash": "6773625ce8f9bf3b0c3661b59d05ca3fbe5941c13027f31f20fe2f4ab2a53d66",
+   "size": 155823897,
+   "compressed_size": 100708610,
+   "compression": "gzip",
+   "sha256": "e66f1c077f5a51c5fe0c3e2c850c87cadc248588d51a9c7fc35d653057fcaddc"
+  },
+  {
+   "file": "blocks-02500000-02749999.dat.gz",
+   "first_height": 2500000,
+   "last_height": 2749999,
+   "first_hash": "3f3f961431a11131c6438d9df9b690d049e1ec3e9e0d66047e3c79dcba3ca903",
+   "last_hash": "2f71c456072dd04cc37e0b10828aa401536d761ad229bb1c0402b85f72ec2651",
+   "size": 120116297,
+   "compressed_size": 76938141,
+   "compression": "gzip",
+   "sha256": "b125235574d52efc60f7ca3c86bcdacae44a1c85bca134343840f611616bbc3e"
+  },
+  {
+   "file": "blocks-02750000-02999999.dat.gz",
+   "first_height": 2750000,
+   "last_height": 2999999,
+   "first_hash": "293a0bbe4d475ebd4962aa9b5285a6b09a368d67b55ab56cfd05bd6e6c59b08e",
+   "last_hash": "269d69fe64febbb139ac20c5269146b2f4637acd86684b9372aae127a0da3bab",
+   "size": 107279031,
+   "compressed_size": 68163209,
+   "compression": "gzip",
+   "sha256": "4e216087f359859ec34ae29a6d9967cbc2ce0979a25d96d29909ed973062f66b"
+  },
+  {
+   "file": "blocks-03000000-03031432.dat.gz",
+   "first_height": 3000000,
+   "last_height": 3031432,
+   "first_hash": "4d1c5c7a18d0224879a141c2283117b0cca1ea484078263c75303a128524bf1a",
+   "last_hash": "58a07d1f4dbe68b7fa66d864272ca6351a60de13a409c132b034c9da03af909a",
+   "size": 13315707,
+   "compressed_size": 8469744,
+   "compression": "gzip",
+   "sha256": "7456527c58e09ca978ed51f076c70a91abc520526be8a6c64f3da7f8289d32a6"
+  }
+ ]
+}
