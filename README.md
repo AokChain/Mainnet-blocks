@@ -4,7 +4,7 @@ Pre-packed AokChain **mainnet blocks** for a fast first synchronisation.
 
 > **Status:** test stage. The wallet feature that reads these files ships with AokChain Core 3.1.0, which is not released yet.
 
-Download: **[Releases → mainnet](https://github.com/AokChain/mainnet-blocks/releases/tag/mainnet)**
+Download: **[Releases → mainnet](https://github.com/AokChain/Mainnet-blocks/releases/tag/mainnet)**
 
 ## What this is
 A freshly installed AokChain node has to fetch about three million blocks from other nodes. There are few peers, so this takes hours. This repository offers the same blocks, in height order, as compressed archives. A node reads its blocks from here instead of from peers.
@@ -26,7 +26,7 @@ No. That is the point of the design.
 - Wallet (GUI): on a first start with a long way to sync, it downloads and validates the archives automatically. This can be skipped in the sync screen.
 - To set the address yourself, put this into `aokchain.conf`:
   ```
-  bootstrapurl=https://github.com/AokChain/mainnet-blocks/releases/download/mainnet/
+  bootstrapurl=https://github.com/AokChain/Mainnet-blocks/releases/download/mainnet/
   ```
 - To use a folder downloaded beforehand (servers, offline machines, slow links):
   ```
